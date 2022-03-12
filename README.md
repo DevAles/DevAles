@@ -23,6 +23,6 @@ Here are some ideas to get you started:
   <img align="center" alt="DevAles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="DevAles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DevAles/DevAles/blob/output/github-contribution-grid-snake.svg)
  
     
