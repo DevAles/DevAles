@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img align="center" alt="DevAles-SocketIO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
    <img align="center" alt="DevAles-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    <img align="center" alt="DevAles-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-   <img align="center" alt="DevAles-LunarVim" height="30" width="40" src="https://raw.githubusercontent.com/LunarVim/LunarVim/rolling/utils/media/lunarvim_logo_dark.png">
+   <img align="center" alt="DevAles-LunarVim" height="30" width="40" src="https://user-images.githubusercontent.com/59826753/159940098-54284f26-f1da-4481-8b03-1deb34c57533.png">
    <img align="center" alt="DevAles-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
    <img align="center" alt="DevAles-Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg ">
     
